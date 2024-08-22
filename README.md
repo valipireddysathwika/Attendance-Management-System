@@ -15,9 +15,6 @@ FEATURES:
 4) Creates a new CSV file everyday for attendance and marks attendance with proper date and time.
 5) Displays live attendance updates for the day on the main screen in tabular format with Id, name, date and time.
 
-### For more information:
-https://machinelearningprojects.net/face-recognition-based-attendance-system/
-
 # SCREENSHOTS
 MAIN SCREEN:
 ![Screenshot (9)](https://user-images.githubusercontent.com/37211676/58502148-97ec2a00-81a3-11e9-963e-674b9c3e05dc.png)
