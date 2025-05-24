@@ -17,16 +17,19 @@ FEATURES:
 
 # SCREENSHOTS
 MAIN SCREEN:
-![Screenshot (9)](https://user-images.githubusercontent.com/37211676/58502148-97ec2a00-81a3-11e9-963e-674b9c3e05dc.png)
+![Screenshot 2025-05-24 154806](https://github.com/user-attachments/assets/7eb8a1b0-c848-4756-8d29-b4d2b0a7442f)
 
 TAKING ATTENDANCE:
-![Screenshot (10)](https://user-images.githubusercontent.com/37211676/58502149-97ec2a00-81a3-11e9-9658-8968da396c2e.png)
+![Screenshot 2025-05-24 163946](https://github.com/user-attachments/assets/2aa0c52c-0227-404e-a22c-69e5e6942274)
 
 SHOWING ATTENDANCE TAKEN:
-![Screenshot (11)](https://user-images.githubusercontent.com/37211676/58502151-9884c080-81a3-11e9-9a90-fec29940ee5a.png)
+![Screenshot 2025-05-24 165652](https://github.com/user-attachments/assets/1976d78d-a216-4283-93b7-99562bad256a)
+1e9-9a90-fec29940ee5a.png)
 
 HELP OPTION IN MENUBAR:
-![Screenshot (12)](https://user-images.githubusercontent.com/37211676/58502152-991d5700-81a3-11e9-861a-9115526010c2.png)
+![Screenshot 2025-05-24 163715](https://github.com/user-attachments/assets/0f04b454-e867-4ff8-9383-f3772a491f1c)
+e9-861a-9115526010c2.png)
 
 CHANGE PASSWORD OPTION:
-![Screenshot (13)](https://user-images.githubusercontent.com/37211676/58502146-97539380-81a3-11e9-8536-0c68160ecc55.png)
+![Screenshot 2025-05-24 165709](https://github.com/user-attachments/assets/7c5af15c-4062-455a-9844-9cc167075c8c)
+e9-8536-0c68160ecc55.png)
